@@ -1,0 +1,21 @@
+{
+  "name": "ngx-placeholder-asterisk",
+  "description": "Simple directive to add asterisk followed by space (' *') to input placeholder programatically",
+  "author": "Kamil Banach <kontakt@elwin013.com>",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": ">=10.0.0",
+    "@angular/core": ">=10.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/elwin013/ngx-placeholder-asterisk/issues"
+  },
+  "homepage": "https://github.com/elwin013/ngx-placeholder-asterisk#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elwin013/ngx-placeholder-asterisk.git"
+  }
+}
